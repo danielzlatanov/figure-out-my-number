@@ -13,9 +13,11 @@ The "computer" thinks of a number between 0 and 100 and your goal is to guess it
 
 Here is the link to the source code -> [code.js](https://github.com/danielzlatanov/figure-out-my-number/blob/5d976a81e0e5219764440c2389699c63c92c8b11/guess-a-number.js)
 
-### Input and Output
+## Input and Output
 
-In order to run this game, type the following command in your console: node guess-a-number.js
+In order to run this game, **type the following command in your console:**
+>node guess-a-number.js
+<br>
 
 Choose a number from 0 to 100, and press the "Enter" key.
 

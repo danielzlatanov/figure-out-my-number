@@ -1,5 +1,5 @@
-# The "Guess My Number" game.
-A fun and simple 'Guess my Number' console game.
+# The "Guess My Number" game
+A fun and simple 'Guess my number' console game.
 
 ![guess1](https://user-images.githubusercontent.com/110429874/192167854-67f007a3-1bcc-4975-96af-2a40e34fa945.jpg)
 

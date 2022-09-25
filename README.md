@@ -35,5 +35,6 @@ Feel free to play this game directly in your web browser here: (Click the image 
 [Link to the game](https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js)
 <a href='https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js' target="_blank">
 <img width="1367" alt="replit-live-demo" src="https://user-images.githubusercontent.com/110429874/192169184-71cc00d1-d7a2-4278-a6b9-d74bcf0cf7f1.png">
+</a>
 
 Have fun!

@@ -30,11 +30,11 @@ If your input is different than a 'number', the console will return that you sho
 
 ## Live Demo
 
-Feel free to play this game directly in your web browser here: (Click the image to open it in a new tab!)
+Feel free to play this game directly in your web browser here: (Click the hyperlink or the image to open it!)
 
 [Link to the game](https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js)
 
-<a href="https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js" target="_blank">
+<a href="https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js">
 <img width="1367" alt="replit-live-demo" src="https://user-images.githubusercontent.com/110429874/192169184-71cc00d1-d7a2-4278-a6b9-d74bcf0cf7f1.png">
 </a>
 

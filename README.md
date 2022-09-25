@@ -28,4 +28,12 @@ If your input is different than a 'number', the console will return that you sho
 <img width="216" alt="Screenshot 2022-09-26 at 0 10 31" src="https://user-images.githubusercontent.com/110429874/192165821-b546dfcf-bcf7-4ee8-accd-deff52e8a86b.png">
 <img width="480" alt="Screenshot 2022-09-26 at 0 15 16" src="https://user-images.githubusercontent.com/110429874/192165998-02134d8b-dfdb-4efa-a676-439a5f88e02a.png">
 
+## Live Demo
+
+Feel free to play this game directly in your web browser here: (Click the image to open it in a new tab!)
+
+[Link to the game](https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js)
+<a href='https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js' target="_blank">
+<img width="1367" alt="replit-live-demo" src="https://user-images.githubusercontent.com/110429874/192169184-71cc00d1-d7a2-4278-a6b9-d74bcf0cf7f1.png">
+
 Have fun!

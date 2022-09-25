@@ -1,2 +1,2 @@
 # figure-out-my-number
-A fun simple 'Guess my Number' console game.
+A fun and simple 'Guess my Number' console game.

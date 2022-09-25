@@ -15,6 +15,8 @@ Here is the link to the source code -> [code.js](https://github.com/danielzlatan
 
 ### Input and Output
 
+In order to run this game, type the following command in your console: node guess-a-number.js
+
 Choose a number from 0 to 100, and press the "Enter" key.
 
 The computer will select a random number in this range, and return information on whether your chosen guess is less than, greater than, or equal to the correct number.

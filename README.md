@@ -4,7 +4,7 @@ A fun and simple 'Guess my number' console game.
 ![guess1](https://user-images.githubusercontent.com/110429874/192167854-67f007a3-1bcc-4975-96af-2a40e34fa945.jpg)
 
 ## Goals and solution
-This console game has been implemented using Node.js
+This console game was created with **Javascript**.
 
 The "computer" thinks of a number between 0 and 100 and your goal is to guess it correctly, so you can win the game!
 

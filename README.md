@@ -34,6 +34,8 @@ If your input is different than a 'number', the console will return that you sho
 
 Feel free to play this game directly in your web browser here: (Click the [hyperlink](https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js) or the image below to open it!)
 
+Make sure to click the `Run` button in Replit!
+
 [Link to the game](https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js)
 
 <a href="https://replit.com/@danielzlatanov/Guess-A-Number#guess-a-number.js">
